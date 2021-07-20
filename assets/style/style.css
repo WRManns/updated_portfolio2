@@ -1,0 +1,49 @@
+body {
+    color: ivory;
+    background-color: rgb(54, 53, 53);
+}
+
+.btn {
+    color: ivory;
+    background-color: black;
+    border-color: rgb(54, 53, 53);
+}
+
+.pro-pic {
+    margin-top: 5rem;
+    margin-left: 25%;
+    width: 35rem;
+    height: auto;
+    border: 3px solid black;
+    border-radius: 50%;
+  }
+
+.card {
+    margin: .5rem;
+}
+
+.card-group {
+    margin-right: 0%;
+}
+
+.project-card {
+    color: rgb(32, 32, 32);
+    background-color: grey;    
+}
+
+.linkSection {
+    margin-top: 10rem;
+    transition: all 1s;
+}
+
+/* makes the icons enlarge slightly for user accessability */
+.linkIcon:hover {
+    transform: scale(1.2);
+}
+
+.resume-card {
+    background-color: rgb(170, 170, 170);
+    border-radius: 5%;
+    border-width: 3px;
+    border-color: black;
+}
